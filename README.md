@@ -1,3 +1,3 @@
 ## Hi
 
-[my website](https://www.accio.cognus.cl)
+[my website](https://accio.cognus.cl)
